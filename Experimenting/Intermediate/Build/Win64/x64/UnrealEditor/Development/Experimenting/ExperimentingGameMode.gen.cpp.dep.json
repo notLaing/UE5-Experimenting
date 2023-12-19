@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5\\ue5 experimenting\\experimenting\\intermediate\\build\\win64\\unrealeditor\\inc\\experimenting\\uht\\experimentinggamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5\\ue5 experimenting\\experimenting\\intermediate\\build\\win64\\x64\\experimentingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5\\ue5 experimenting\\experimenting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\experimenting\\definitions.experimenting.h",
+            "e:\\ue5\\ue5 experimenting\\experimenting\\source\\experimenting\\experimentinggamemode.h",
+            "d:\\unreal engine 5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\unreal engine 5\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\unreal engine 5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\unreal engine 5\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\ue5\\ue5 experimenting\\experimenting\\intermediate\\build\\win64\\unrealeditor\\inc\\experimenting\\uht\\experimentinggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

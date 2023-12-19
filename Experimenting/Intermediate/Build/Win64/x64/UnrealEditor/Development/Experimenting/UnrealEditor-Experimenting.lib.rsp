@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Experimenting.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\ExperimentingEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\Experimenting.init.gen.cpp.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\ExperimentingCharacter.gen.cpp.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\ExperimentingGameMode.gen.cpp.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\Experimenting.cpp.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\ExperimentingCharacter.cpp.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\ExperimentingGameMode.cpp.obj"
+"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\Default.rc2.res"
+/OUT:"E:\UE5\UE5 Experimenting\Experimenting\Intermediate\Build\Win64\x64\UnrealEditor\Development\Experimenting\UnrealEditor-Experimenting.lib"

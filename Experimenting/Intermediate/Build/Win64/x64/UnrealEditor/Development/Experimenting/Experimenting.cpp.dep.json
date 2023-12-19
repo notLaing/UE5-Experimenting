@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue5\\ue5 experimenting\\experimenting\\source\\experimenting\\experimenting.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue5\\ue5 experimenting\\experimenting\\intermediate\\build\\win64\\x64\\experimentingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue5\\ue5 experimenting\\experimenting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\experimenting\\definitions.experimenting.h",
+            "e:\\ue5\\ue5 experimenting\\experimenting\\source\\experimenting\\experimenting.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
